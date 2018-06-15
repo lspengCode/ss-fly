@@ -12,3 +12,8 @@ Ubuntu 12+
 一键搭建ss/ssr：[一键脚本搭建shadowsocks+开启bbr](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/)
 
 一键搭建V2Ray：[一键脚本搭建V2Ray+配置与优化](https://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
+
+### 运行搭建ss脚本代码
+````
+ss-fly/ss-fly.sh -i flyzy2005.com 1024
+````
